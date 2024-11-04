@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **react, tailwind css**
+- 💬 Ask me about **react**
 
 - 📫 How to reach me **srabonahmed2002@gmail.com**
 
